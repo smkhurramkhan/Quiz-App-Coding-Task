@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="high_score">High Score</string>
+    <string name="start_new_game">Start New game</string>
+
+    <string name="next">Next</string>
+    <string name="quiz_result">Quiz Result</string>
+    <string name="your_score">Your Score</string>
+    <string name="share_results">Share Results</string>
+    <string name="question_progress">Question %1$s/%2$s</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="better_luck_next_time">Better luck next time!</string>
+    <string name="your_score_is">Your Score is:</string>
+    <string name="_200">200</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please, enter your name</string>
+    <string name="start">Start</string>
+    <string name="your_name">Your name</string>
+
+</resources>
