@@ -2,10 +2,10 @@
 This is a quiz app (Coding challenge) by embrace technologies.
 Tools and tech stack used in this:
 
--[] 1- Room DB
--[] 2- Hilt DI
--[] 3- Coroutines
--[] 4- Retrofit
+1. Room DB
+2. Hilt DI
+3. Coroutines
+4. Retrofit
 
 
 ![1](https://github.com/smkhurramkhan/Quiz-App-Coding-Task/assets/48547204/c1cb6dc1-7b11-42fc-910c-184b829f8298)
